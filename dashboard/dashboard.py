@@ -104,3 +104,6 @@ with t3:
     st.write(f"3. Average revenue (USD millions): {round(data['Revenue(USD millions)'].mean(), 2)}")
     st.write(f"4. Total number of employees: {format(data['Employees'].sum(), ',')}")
     st.write(f"5. Most common headquarters: {data['Headquarters'].mode()[0]}")
+    st.write("6. Oil and gas industry dominate the revenue share as well as have the most companies.")
+    st.write("7. Walmart makes the most profit out of all the companies.")
+    st.write("8. Revenue and profit distribution is similar among the industries.")
