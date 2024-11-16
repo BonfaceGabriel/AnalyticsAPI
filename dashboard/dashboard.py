@@ -6,7 +6,7 @@ import numpy as np
 
 plt.style.use('dark_background')
 
-data = pd.read_csv('clean_data.csv')
+data = pd.read_csv('dashboard/clean_data.csv')
 
 data['Revenue_per_Employee'] = data['Revenue(USD millions)'] / data['Employees']
 
