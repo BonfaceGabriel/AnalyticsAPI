@@ -1,19 +1,49 @@
 # Django Company Analytics API
-This Django project provides an API that allows users to retrieve information about companies in the US. The API supports various endpoints to answer statistical questions related to company profiles, industry statistics, and more.
+This Django project provides an API that allows users to retrieve information about companies in the US. <br>
+The API supports various endpoints to answer statistical questions related to company profiles, industry statistics, and more.<br>
+You can also check out the general overview of the data, statistical visualizations, as well as key insights on the demo app.
 
 ## Installation
 To run the Django Company Analytics API, follow these steps:
 
-Clone the repository: git clone <repository-url>
-Navigate to the project directory: cd AnalyticsAPI
-Create a virtual environment: python3 -m venv env
+Clone the repository: 
+```bash
+git clone <repository-url>
+```
+
+Navigate to the project directory: 
+```bash
+cd AnalyticsAPI
+```
+Create a virtual environment: 
+```bash
+python3 -m venv env
+```
 Activate the virtual environment:
-On Windows: env\Scripts\activate
-On macOS/Linux: source env/bin/activate
-Install the dependencies: pip install -r requirements.txt
-Set up the database: python3 manage.py migrate
-Start the development server: python3 manage.py runserver
-API Endpoints
+On Windows: 
+```bash
+env\Scripts\activate
+```
+On macOS/Linux:
+```bash
+source env/bin/activate
+```
+Install the dependencies:
+```bash
+pip install -r requirements.txt
+```
+Set up the database: 
+```bash
+python3 manage.py migrate
+```
+Start the development server:
+```bash
+python3 manage.py runserver
+```
+## Dashboard App
+Demo app: [*Company Data Analysis Dashboard*](https://company-dashboard.streamlit.app/)
+
+## API Endpoints
 The API provides the following endpoints:
 
 1. Get Country Profile
@@ -127,6 +157,7 @@ The API provides the following endpoints:
     Response:
 
     The response will include the best performing companies in each industry based on revenue.
+
   
 ## Conclusion
 This Django Company Profile API provides a comprehensive set of endpoints to retrieve information about countries, companies, and industry profiles. With these endpoints, users can gather insights into company statistics, industry revenue, top-performing companies, and more.
