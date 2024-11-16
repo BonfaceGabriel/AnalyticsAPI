@@ -4,8 +4,10 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
 
+st.set_page_config(layout='wide')
 plt.style.use('dark_background')
 
+#read data
 data = pd.read_csv('dashboard/clean_data.csv')
 
 data['Revenue_per_Employee'] = data['Revenue(USD millions)'] / data['Employees']
