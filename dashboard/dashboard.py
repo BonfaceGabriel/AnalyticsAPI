@@ -4,6 +4,8 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
 
+plt.style.use('dark_background')
+
 data = pd.read_csv('clean_data.csv')
 
 data['Revenue_per_Employee'] = data['Revenue(USD millions)'] / data['Employees']
@@ -98,7 +100,7 @@ with t2:
 with t3:
     st.header("Key Insights")
     st.write(f"1. Average Revenue per Employee (USD millions): {round(data['Revenue_per_Employee'].mean(), 2)}")
-    st.write(f"3. Industry with most employees: {data.groupby('Industry')['Employees'].sum().idxmax()}")
-    st.write(f"2. Average revenue (USD millions): {round(data['Revenue(USD millions)'].mean(), 2)}")
-    st.write(f"3. Total number of employees: {format(data['Employees'].sum(), ',')}")
-    st.write(f"4. Most common headquarters: {data['Headquarters'].mode()[0]}")
+    st.write(f"2. Industry with most employees: {data.groupby('Industry')['Employees'].sum().idxmax()}")
+    st.write(f"3. Average revenue (USD millions): {round(data['Revenue(USD millions)'].mean(), 2)}")
+    st.write(f"4. Total number of employees: {format(data['Employees'].sum(), ',')}")
+    st.write(f"5. Most common headquarters: {data['Headquarters'].mode()[0]}")
