@@ -1,0 +1,51 @@
+Rank,Name,Industry,Revenue(USD millions),Profit(USD millions),Employees,Headquarters
+1,Walmart,Retail,572754.0,572754.0,2300000,United States of America
+2,"Amazon.com, Inc.",Retail,469822.0,469822.0,1608000,United States of America
+3,State Grid Corporation of China,Electricity,460616.9,460616.9,871145,China
+4,China National Petroleum Corporation,Oil and gas,411692.9,411692.9,1090345,China
+5,China Petrochemical Corporation,Oil and gas,401313.5,401313.5,542286,China
+6,Saudi Aramco,Oil and gas,400399.1,400399.1,68493,Saudi Arabia
+7,Apple Inc.,Electronics,365817.0,365817.0,154000,United States of America
+8,Volkswagen Group,Automotive,295819.8,295819.8,662575,Germany
+9,China State Construction Engineering,Construction,293712.4,293712.4,368327,China
+10,CVS Health,Healthcare,292111.0,292111.0,258500,United States of America
+11,UnitedHealth Group,Healthcare,287597.0,287597.0,350000,United States of America
+12,ExxonMobil,Oil and gas,285640.0,285640.0,63000,United States of America
+13,Toyota,Automotive,279337.7,279337.7,372817,Japan
+14,Berkshire Hathaway,Financials,276094.0,276094.0,372000,United States of America
+15,Shell plc,Oil and gas,272657.0,272657.0,82000,United Kingdom
+16,McKesson Corporation,Healthcare,263966.0,263966.0,66500,United States of America
+17,Alphabet Inc.,Information technology,257637.0,257637.0,156500,United States of America
+18,Samsung Electronics,Electronics,244334.9,244334.9,266673,South Korea
+19,Trafigura,Commodities,231208.1,231208.1,9031,Singapore
+20,Foxconn,Electronics,214619.2,214619.2,826608,Taiwan
+21,AmerisourceBergen,Healthcare,213988.8,213988.8,40000,United States of America
+22,Industrial and Commercial Bank of China,Financials,209000.4,209000.4,434089,China
+23,Glencore,Commodities,203751.0,203751.0,81284,Switzerland
+24,China Construction Bank,Financials,200434.0,200434.0,375531,China
+25,Ping An Insurance,Financials,199629.0,199629.0,355982,China
+26,Costco,Retail,195929.0,195929.0,288000,United States of America
+27,TotalEnergies,Oil and gas,184634.0,184634.0,101309,France
+28,Agricultural Bank of China,Financials,181411.7,181411.7,455174,China
+29,Stellantis,Automotive,176663.0,176663.0,281595,Netherlands
+30,Cigna,Healthcare,174078.0,174078.0,72963,United States of America
+31,Sinochem,Chemicals,172260.3,172260.3,220760,China
+32,AT&T,Telecommunications,168864.0,168864.0,202600,United States of America
+33,Microsoft,Information technology,168088.0,168088.0,181000,United States of America
+34,China Railway Engineering Corporation,Construction,166452.1,166452.1,310817,China
+35,BP,Oil and gas,164195.0,164195.0,65900,United Kingdom
+36,Cardinal Health,Healthcare,162467.0,162467.0,46827,United States of America
+37,Chevron Corporation,Oil and gas,162465.0,162465.0,42595,United States of America
+38,Mercedes-Benz Group,Automotive,158306.1,158306.1,172425,Germany
+39,China Railway Construction Corporation,Construction,158203.0,158203.0,366833,China
+40,China Life Insurance Company,Insurance,157095.3,157095.3,182646,China
+41,Mitsubishi Group,Conglomerate,153690.0,153690.0,80728,Japan
+42,Bank of China,Financials,152409.3,152409.3,306322,China
+43,The Home Depot,Retail,151157.0,151157.0,490600,United States of America
+44,Baowu,Steel,150730.0,150730.0,230884,China
+45,Walgreens Boots Alliance,Retail,148579.0,148579.0,258000,United States of America
+46,JD.com,Retail,147526.2,147526.2,385357,China
+47,Allianz,Financials,144516.6,144516.6,155411,Germany
+48,Axa,Financials,144446.8,144446.8,92398,France
+49,Marathon Petroleum,Oil and gas,141032.0,141032.0,17700,United States of America
+50,Elevance Health,Healthcare,138639.0,138639.0,98200,United States of America
